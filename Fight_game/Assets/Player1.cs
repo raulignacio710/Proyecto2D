@@ -21,7 +21,7 @@ public class Player1 : MonoBehaviour {
 	void Update () {
         anim.SetFloat("Speed",Mathf.Abs(rb2d.velocity.x));
         anim.SetBool("Grounded", grounded);
-        if (Input.GetKeyDown(KeyCode.UpArrow) && grounded)
+        if (Input.GetKeyDown(KeyCode.UpArrow) && grounded || Input.GetKeyDown(KeyCode.W) && grounded)
         {
             jump = true;
         }

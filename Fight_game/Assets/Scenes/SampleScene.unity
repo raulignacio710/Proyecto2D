@@ -390,7 +390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxspeed: 5
-  speed: 25
+  speed: 55
   grounded: 0
   jumpForce: 9.5
 --- !u!1 &1040224564
