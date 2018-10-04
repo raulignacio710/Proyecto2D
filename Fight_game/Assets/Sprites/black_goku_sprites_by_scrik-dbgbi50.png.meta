@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: b9bd53189057f244ab416e7f19d0e4c3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: black_goku_sprites_by_scrik-dbgbi50_0
+    21300002: black_goku_sprites_by_scrik-dbgbi50_1
+    21300004: black_goku_sprites_by_scrik-dbgbi50_2
+    21300006: black_goku_sprites_by_scrik-dbgbi50_3
+    21300008: black_goku_sprites_by_scrik-dbgbi50_4
+    21300010: black_goku_sprites_by_scrik-dbgbi50_5
+    21300012: black_goku_sprites_by_scrik-dbgbi50_6
+    21300014: black_goku_sprites_by_scrik-dbgbi50_7
+    21300016: black_goku_sprites_by_scrik-dbgbi50_8
+    21300018: black_goku_sprites_by_scrik-dbgbi50_9
+    21300020: black_goku_sprites_by_scrik-dbgbi50_10
+    21300022: black_goku_sprites_by_scrik-dbgbi50_11
+    21300024: black_goku_sprites_by_scrik-dbgbi50_12
+    21300026: black_goku_sprites_by_scrik-dbgbi50_13
+    21300028: black_goku_sprites_by_scrik-dbgbi50_14
+    21300030: black_goku_sprites_by_scrik-dbgbi50_15
+    21300032: black_goku_sprites_by_scrik-dbgbi50_16
+    21300034: black_goku_sprites_by_scrik-dbgbi50_17
+    21300036: black_goku_sprites_by_scrik-dbgbi50_18
+    21300038: black_goku_sprites_by_scrik-dbgbi50_19
+    21300040: black_goku_sprites_by_scrik-dbgbi50_20
+    21300042: black_goku_sprites_by_scrik-dbgbi50_21
+    21300044: black_goku_sprites_by_scrik-dbgbi50_22
+    21300046: black_goku_sprites_by_scrik-dbgbi50_23
+    21300048: black_goku_sprites_by_scrik-dbgbi50_24
+    21300050: black_goku_sprites_by_scrik-dbgbi50_25
+    21300052: black_goku_sprites_by_scrik-dbgbi50_26
+    21300054: black_goku_sprites_by_scrik-dbgbi50_27
+    21300056: black_goku_sprites_by_scrik-dbgbi50_28
+    21300058: black_goku_sprites_by_scrik-dbgbi50_29
+    21300060: black_goku_sprites_by_scrik-dbgbi50_30
+    21300062: black_goku_sprites_by_scrik-dbgbi50_31
+    21300064: black_goku_sprites_by_scrik-dbgbi50_32
+    21300066: black_goku_sprites_by_scrik-dbgbi50_33
+    21300068: black_goku_sprites_by_scrik-dbgbi50_34
+    21300070: black_goku_sprites_by_scrik-dbgbi50_35
+    21300072: black_goku_sprites_by_scrik-dbgbi50_36
+    21300074: black_goku_sprites_by_scrik-dbgbi50_37
+    21300076: black_goku_sprites_by_scrik-dbgbi50_38
+    21300078: black_goku_sprites_by_scrik-dbgbi50_39
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 663
+        width: 59
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f28fa8cdf3d784fb343f033cb5c560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 663
+        width: 60
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0540c47d8fb5bde47bc4c780eb027a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 663
+        width: 58
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aafcf26c18ce8043b21bf491281c15f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 663
+        width: 98
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4abc0dbc17f464c8c34687b2cf8cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 663
+        width: 75
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb096eda1bba7549a2f940ee5870025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 663
+        width: 98
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21500511b7987664395309ce15f89291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 663
+        width: 55
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf8e4f59f965214eb52de14015a6f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_7
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 664
+        width: 76
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17db9bd0f9a955448cda6ce2cb0e960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 709
+        width: 137
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a8d1ef7cf963488d0240fdd34e5b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 663
+        width: 87
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692fbcc4ecb9eb4fb2b73fd7bde1e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 511
+        width: 86
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc560ddd09c439d419fd24b3d2b6928d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 510
+        width: 71
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cbb769e86d367469b78d2370462065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 519
+        width: 144
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eb0d38cfc835941b3a9704b00283f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 507
+        width: 89
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaf84ad042b8614e92a0e39291e5498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 509
+        width: 94
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0c7519c516f1143bbb09ed1f6a7d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 509
+        width: 121
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b4d0cfa4d5cd645b50dbe5d0cd09d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_16
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 508
+        width: 102
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7634302ec234d4db8d50f3d324e1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_17
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 510
+        width: 100
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e34aa3f77d3e42b698003b339614d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_18
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 506
+        width: 92
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d743fa60a83ca64daf8a47c1da9a39c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 361
+        width: 72
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fcc19e0eab5024ea11ffa3ce24920c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 362
+        width: 113
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be245efd19079294ebb25008e107df17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 361
+        width: 109
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a91286de5f4f4d934d0354e611254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 360
+        width: 118
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460829bc67097a14bafd64d63865cfb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 177
+        width: 60
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fdbcd188f7e0045a830c0ba45b0ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 178
+        width: 56
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041464201176c3498dde060c7ea3a3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 177
+        width: 98
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85868a1b310a74a91780f268e2b4fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 178
+        width: 75
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2502445077ffda84bb26678524a3b253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 178
+        width: 98
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4d8ab9ba2e9494fbdad24974997e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 177
+        width: 56
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a4a642e00afd4eab1f7d96377ea30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 177
+        width: 92
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a461bb3d41dcc1347b93e13922af588d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_30
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 178
+        width: 102
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd3485e9ac07341bc91fec82c492a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_31
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 178
+        width: 76
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb93104a278f0e4da425750ffc9edce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_32
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 230
+        width: 131
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a2f207641a16c4b823b0be25a05986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 71
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ef0192fcb88749b02ef116df7afa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 26
+        width: 89
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efaa162fafd80b47886cfa553b6d7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 22
+        width: 95
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c8675a8f3ba7459de68afd1989d86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 24
+        width: 121
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249161958a7498e4bb7aebdf99c3b696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_37
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 25
+        width: 99
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428170767b67207419d49e97fb8954fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_38
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 25
+        width: 87
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f6f08a6b8d3ce4792614cbf6730729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_goku_sprites_by_scrik-dbgbi50_39
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 43
+        width: 143
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd33fff2d2ca246836ced8c4057871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 04d6a08af32f71649b85976230ef7361
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
