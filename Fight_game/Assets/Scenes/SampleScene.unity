@@ -288,6 +288,50 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.5
+--- !u!1 &273974933
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 273974934}
+  - component: {fileID: 273974935}
+  m_Layer: 0
+  m_Name: Ataque1
+  m_TagString: Ataque
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &273974934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 273974933}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 604379673}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &273974935
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 273974933}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.3831277, y: 0.26485443}
+  serializedVersion: 2
+  m_Radius: 0.36266804
 --- !u!1 &485535712
 GameObject:
   m_ObjectHideFlags: 0
@@ -519,7 +563,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7.89, y: -4.19, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 273974934}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -554,11 +599,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9619ac1a82551004db4e97c2f4b89bd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxspeed: 5
+  maxspeed: 9
   speed: 55
   grounded: 0
   jumpForce: 9.5
   healthbar: {fileID: 798123794}
+  gm: {fileID: 0}
 --- !u!1 &759295630
 GameObject:
   m_ObjectHideFlags: 0
@@ -970,6 +1016,7 @@ GameObject:
   - component: {fileID: 1827399162}
   - component: {fileID: 1827399164}
   - component: {fileID: 1827399163}
+  - component: {fileID: 1827399165}
   m_Layer: 5
   m_Name: Player2_bar
   m_TagString: Untagged
@@ -1030,6 +1077,18 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1827399161}
   m_CullTransparentMesh: 0
+--- !u!114 &1827399165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1827399161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd88e16ca15d4dc48855ab4ae0387846, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: {fileID: 1150133146}
 --- !u!1 &1875981565
 GameObject:
   m_ObjectHideFlags: 0
@@ -1266,3 +1325,4 @@ MonoBehaviour:
   grounded: 0
   jumpForce: 9.5
   healthbar: {fileID: 1827399161}
+  gm: {fileID: 0}
