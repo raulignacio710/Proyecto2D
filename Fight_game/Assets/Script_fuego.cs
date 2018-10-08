@@ -13,13 +13,12 @@ public class Script_fuego : MonoBehaviour {
     {
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
-
     }
 
     // Update is called once per frame
     void Update()
     {
 
-        rb2d.transform.Translate(new Vector3(4, 0, 0) * Time.deltaTime);
+        rb2d.transform.Translate(new Vector3(-4, 4, 0) * Time.deltaTime);
     }
 }

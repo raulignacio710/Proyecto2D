@@ -10,6 +10,8 @@ public class Player1 : MonoBehaviour {
     public float jumpForce = 6.5f;
     public GameObject healthbar;
     public GameManager gm;
+    public GameObject Poder1;
+    public GameObject salida;
     float hp, maxhp;
 
     private Rigidbody2D rb2d;
@@ -20,6 +22,7 @@ public class Player1 : MonoBehaviour {
     {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        salida = GameObject.Find("Salida_poderes");
         maxhp = 100;
         hp = maxhp;
     }
@@ -29,7 +32,7 @@ public class Player1 : MonoBehaviour {
     {
         anim.SetFloat("Speed", Mathf.Abs(rb2d.velocity.x));
         anim.SetBool("Grounded", grounded);
-        if (Input.GetKeyDown(KeyCode.UpArrow) && grounded)
+        if (Input.GetKeyDown(KeyCode.U) && grounded)
         {
             jump = true;
         }
@@ -42,8 +45,8 @@ public class Player1 : MonoBehaviour {
     private void FixedUpdate()
     {
         //MOVERSE
-        bool izq = Input.GetKeyDown(KeyCode.LeftArrow);
-        bool der = Input.GetKeyDown(KeyCode.RightArrow);
+        bool izq = Input.GetKey("h");
+        bool der = Input.GetKey("k");
 
         if (izq == true)
         {
@@ -61,6 +64,7 @@ public class Player1 : MonoBehaviour {
 
         //ATACAR
         bool atack1 = Input.GetKey("z");
+        bool atack2= Input.GetKey("x");
 
         if (atack1 == true)
         {
@@ -69,6 +73,11 @@ public class Player1 : MonoBehaviour {
         else
         {
             anim.SetBool("Isatack", false);
+        }
+
+        if (atack2 == true )
+        {
+            Instantiate(Poder1, salida.transform.localPosition, Quaternion.identity);
         }
 
         //SALTAR
