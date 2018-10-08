@@ -23,6 +23,7 @@ public class Player1 : MonoBehaviour {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         salida = GameObject.Find("Salida_poderes");
+        Poder1 = GameObject.Find("Fuego");
         maxhp = 100;
         hp = maxhp;
     }
@@ -78,6 +79,10 @@ public class Player1 : MonoBehaviour {
         if (atack2 == true )
         {
             Instantiate(Poder1, salida.transform.localPosition, Quaternion.identity);
+        }
+        else
+        {
+            atack2 = false;
         }
 
         //SALTAR
