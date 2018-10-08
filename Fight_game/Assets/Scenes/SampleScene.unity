@@ -606,7 +606,7 @@ MonoBehaviour:
   jumpForce: 9.5
   healthbar: {fileID: 798123794}
   gm: {fileID: 0}
-  Poder1: {fileID: 0}
+  Poder1: {fileID: 812510789}
   salida: {fileID: 0}
 --- !u!1 &759295630
 GameObject:
@@ -786,6 +786,27 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 798123794}
   m_CullTransparentMesh: 0
+--- !u!1 &812510789 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1621496540079624, guid: f17198d0dbc657d47a5b7a9cb95d012f,
+    type: 2}
+  m_PrefabInternal: {fileID: 1286062776}
+--- !u!1 &990658205 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1639715602359336, guid: f17198d0dbc657d47a5b7a9cb95d012f,
+    type: 2}
+  m_PrefabInternal: {fileID: 1286062776}
+--- !u!114 &990658209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 990658205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1685356c8770ca5408d9a285e688ee7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1040224564
 GameObject:
   m_ObjectHideFlags: 0
