@@ -7,7 +7,7 @@ public class Player2 : MonoBehaviour {
     public float maxspeed = 9f;
     public float speed = 2f;
     public bool grounded;
-    public float jumpForce = 6.5f;
+    public float jumpForce = 1.5f;
     public GameObject healthbar;
     public GameManager gm;
     float hp, maxhp;
@@ -29,7 +29,7 @@ public class Player2 : MonoBehaviour {
     {
         anim.SetFloat("Speed", Mathf.Abs(rb2d.velocity.x));
         anim.SetBool("Grounded", grounded);
-        if ( Input.GetKeyDown(KeyCode.W) && grounded)
+        if (Input.GetAxis("Vertical")>0f && grounded)
         {
             jump = true;
         }
@@ -45,12 +45,12 @@ public class Player2 : MonoBehaviour {
         bool izq = Input.GetKey("a");
         bool der = Input.GetKey("d");
 
-        if (izq==true)
+        if (Input.GetAxis("Horizontal") < 0f)
         {
             transform.localScale = new Vector3(1f, 1f, 1f);
             rb2d.AddForce(Vector2.left * speed * 5);
         }
-        if (der==true)
+        if (Input.GetAxis("Horizontal") > 0f)
         {
             transform.localScale = new Vector3(-1f, 1f, 1f);
             rb2d.AddForce(Vector2.right * speed * 5);
@@ -60,7 +60,7 @@ public class Player2 : MonoBehaviour {
         rb2d.velocity = new Vector2(limitedspeed, rb2d.velocity.y);
 
         //ATACAR
-        bool atack1 = Input.GetKey("l");
+        bool atack1 = Input.GetKeyDown(KeyCode.Joystick1Button2);
 
         if (atack1 == true)
         {
